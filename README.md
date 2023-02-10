@@ -1,6 +1,6 @@
 ### Hi, I'm Barry! 👋
 
-### Welcome to my <img src="https://img.icons8.com/color/96/000000/github--v1.png" height="24"/>GitHub Profile
+### Welcome to my <img src="https://img.icons8.com/color/96/000000/github--v1.png" height="24"/> GitHub Profile
 <!--
 **Bardiafa/Bardiafa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 
 ## 🌎 Find me
-[![icons8-web-48](https://github.com/Bardiafa/Bardiafa/blob/master/icons8-website-48.png)](https://bardiafardar.ir)
+[![icons8-web-48](https://github.com/Bardiafa/ReadMe-Template/blob/master/icons8-internet-48.png)](https://bardiafardar.ir)
 [![icons8-linkedin-48](https://user-images.githubusercontent.com/74541595/179397144-552658c1-0a28-46b5-be2b-3fbf85ace9d8.png)](https://www.linkedin.com/in/bardia-fardar-04a86518b)
 [![icons8-gmail-48](https://user-images.githubusercontent.com/74541595/179397245-37cdb849-4283-4f70-956c-f2e739e44401.png)](mailto:bardiafardar@gmail.com)
 ## Introducing Bardia Fardar 🙋‍♂️
