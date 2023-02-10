@@ -15,9 +15,8 @@ Here are some ideas to get you started:
 
 ## ⚡ Tec Stacks
 
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+![HTML](https://img.shields.io/badge/-HTML-FFA500?style=flat-square&logo=html&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-2965f1?style=flat-square&logo=css&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Figma](https://img.shields.io/badge/-Figma-ffc0cb?style=flat-square&logo=Figma&logoColor=black)
 ![ClickUp](https://img.shields.io/badge/-Clickup-FFFFFF?style=flat-square&logo=clickup&logoColor=Blue)
